@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "648c2c8d2ebe990eab5b2476"
+  },
+  "LoginID": "Rutvik5011",
+  "Name": "Rutvik Patil",
+  "Email": "rutvik5222gmail.com",
+  "Password": "K+6qRCCrgjcbXu9R/gilYQ==",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648c2f279e9c40717c42d928"
+  },
+  "LoginID": "Dhanush12",
+  "Name": "Dhanush",
+  "Email": "dhanush@gmail.com",
+  "Password": "pXopXPsf9XH+txbQtbA4eA==",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6499182174c9251c367fa82c"
+  },
+  "LoginID": "RUTVIK123",
+  "Name": "RUTVIK",
+  "Email": "patilrutvik501@gmail.com",
+  "Password": "K+6qRCCrgjcbXu9R/gilYQ==",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649918b274c9251c367fa830"
+  },
+  "LoginID": "RUTVIK12",
+  "Name": "Rutvik Patil",
+  "Email": "rutvik7patil@gmail.com",
+  "Password": "K+6qRCCrgjcbXu9R/gilYQ==",
+  "__v": 0
+}]

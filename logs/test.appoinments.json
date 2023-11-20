@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "64992b6d5b60ed0c7b9cc5ce"
+  },
+  "AppoinmentNo": "002",
+  "PName": "Rutvik ",
+  "Age": "24",
+  "relation": "self12  ",
+  "MobileNo": "1231231231",
+  "userID": "RUTVIK12",
+  "Apstatus": "1",
+  "date": {
+    "$date": "2023-06-26T06:08:45.583Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64992b6f5b60ed0c7b9cc5d2"
+  },
+  "AppoinmentNo": "003",
+  "PName": "Rutvik ",
+  "Age": "24",
+  "relation": "self12  ",
+  "MobileNo": "1231231231",
+  "userID": "RUTVIK12",
+  "Apstatus": "0",
+  "date": {
+    "$date": "2023-06-26T06:08:47.741Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64992b725b60ed0c7b9cc5d6"
+  },
+  "AppoinmentNo": "004",
+  "PName": "Rutvik ",
+  "Age": "24",
+  "relation": "self12  ",
+  "MobileNo": "1231231231",
+  "userID": "RUTVIK12",
+  "Apstatus": "0",
+  "date": {
+    "$date": "2023-06-26T06:08:50.812Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64995b5342a66d0a15af3acd"
+  },
+  "AppoinmentNo": "006",
+  "PName": "rutvik1",
+  "Age": "23",
+  "relation": "self",
+  "MobileNo": "1212121212",
+  "userID": "RUTVIK123",
+  "Apstatus": "0",
+  "date": {
+    "$date": "2023-06-26T09:33:07.392Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64996176d4949b160ca62625"
+  },
+  "AppoinmentNo": "007",
+  "PName": "rp",
+  "Age": "12",
+  "relation": "sekf",
+  "MobileNo": "1231231231",
+  "userID": "Rutvik5011",
+  "Apstatus": "0",
+  "date": {
+    "$date": "2023-06-26T09:59:18.554Z"
+  },
+  "__v": 0
+}]

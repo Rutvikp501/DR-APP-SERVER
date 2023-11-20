@@ -1,0 +1,43 @@
+{
+  "name": "react_userlogin_server",
+  "version": "1.0.0",
+  "description": "user login and authentication backend server site ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rutvikp501/React_userLogin_server.git"
+  },
+  "author": "Rutvik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rutvikp501/React_userLogin_server/issues"
+  },
+  "homepage": "https://github.com/Rutvikp501/React_userLogin_server#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "body-parser": "^1.20.2",
+    "cloudinary": "^1.37.1",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.0",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    
+    "handlebars": "^4.7.7",
+    "joi": "^17.9.2",
+    "joi-password-complexity": "^5.1.0",
+    "jsonwebtoken": "^9.0.0",
+    "mongoos": "^0.0.1-security",
+    "mongoose": "^7.2.4",
+    "nodemailer": "^6.9.3",
+    "nodemon": "^2.0.22",
+    "password-validator": "^5.3.0",
+    "path": "^0.12.7",
+    "pm2": "^5.3.0",
+    "stripe": "^12.9.0"
+  }
+}
